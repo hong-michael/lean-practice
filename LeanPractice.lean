@@ -1,0 +1,1 @@
+-- Import each practice file here so that `lake build` checks it.
